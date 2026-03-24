@@ -1,0 +1,15 @@
+requests
+apscheduler
+python-dotenv
+psycopg2-binary
+pandas
+sqlalchemy
+jupyter
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+google-genai
+streamlit
+plotly

@@ -1,0 +1,38 @@
+# Environment variables — NEVER commit this
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Model files — large, machine specific
+*.pkl
+
+# Data folder
+data/
+
+# Jupyter
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files we created temporarily
+test_db.py
+test_gemini.py
+test_insights.py
+test_spotlight.py
+test_cache.py
+test_predict.py
+test_prep.py
+test_prompts.py
+test_espn.py
